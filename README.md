@@ -1,4 +1,5 @@
 # Codility-sampleCode
+# Question.1
 The problem is as follows: A dominant member in the array is one that occupies over half the positions in the array, for example:
 
 {3, 67, 23, 67, 67}
